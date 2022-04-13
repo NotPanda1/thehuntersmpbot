@@ -1,0 +1,9 @@
+{         
+
+
+    "ip":"The_Hunter_smp.aternos.me",
+       "port": "17137",
+        "name": "thehuntersmpbot"
+
+
+}
